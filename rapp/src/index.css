@@ -1,0 +1,27 @@
+
+
+h1{
+  color: lightsteelblue;
+  text-align: center;
+  font-weight: 300;
+  font-size: 60px ;
+}
+
+body{
+  background-color: black;
+  color: lightsteelblue;
+}
+
+
+button{
+  padding: 14px 40px;
+  background-color: lightsteelblue;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+}
+button:hover{
+  background-color: blue;
+}
+
